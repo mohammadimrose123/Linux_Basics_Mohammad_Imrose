@@ -1,0 +1,6 @@
+Task 5 — Downloading Files
+
+$ wget -q -O downloaded_sample.txt http://127.0.0.1:8765/source_sample.txt
+Download successful:
+66 downloaded_sample.txt
+This file was downloaded using wget for the Linux Basics project.

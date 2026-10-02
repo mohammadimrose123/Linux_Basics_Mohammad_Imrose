@@ -1,0 +1,4 @@
+Task 3 — Searching for Patterns
+
+$ grep 'root' /etc/passwd
+root:x:0:0:root:/root:/bin/bash

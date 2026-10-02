@@ -1,0 +1,4 @@
+Task 6 — Changing Permissions
+
+$ chmod 444 secure.txt
+-r--r--r-- 1 root oai_shared 37 Oct  2 13:07 secure.txt

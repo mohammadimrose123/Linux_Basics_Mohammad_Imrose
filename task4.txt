@@ -1,0 +1,12 @@
+Task 4 — Zipping and Unzipping
+
+$ zip -r test_dir.zip test_dir
+Archive:  test_dir.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+        0  2026-10-02 13:07   test_dir/
+        0  2026-10-02 13:07   test_dir/renamed_example.txt
+---------                     -------
+        0                     2 files
+$ unzip -q test_dir.zip -d unzipped_dir
+unzipped_dir/test_dir/renamed_example.txt
